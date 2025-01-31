@@ -25,8 +25,8 @@ Try playing a song in the terminal. Give it a go with Termux!
     cd Young-kai---Blue-terminal
     pkg install mpv
     pkg install bc
+    chmod +x play_blue.sh
     clear
-    chmod +x play_song.sh
     ```
 3. Run the script:
     ```sh
