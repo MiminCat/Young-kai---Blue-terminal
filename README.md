@@ -14,7 +14,9 @@ Try playing a song in the terminal. Give it a go with Termux!
 ## 🐱 Installation
 1. Clone the repository:
     ```sh
+    pkg install git
     git clone https://github.com/MiminCat/Young-kai---Blue-terminal.git
+    clear
     ```
 2. Navigate to the project directory and install dependencies:
     ```sh
