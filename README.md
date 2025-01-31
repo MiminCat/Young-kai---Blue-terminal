@@ -5,6 +5,7 @@
 
 ## 🐾 Description
 Try playing a song in the terminal. Give it a go with Termux!
+> Test On termux [work]
 
 ## 🐱 Table of Contents
 - [🐱 Installation](#installation)
