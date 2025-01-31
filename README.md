@@ -23,10 +23,10 @@ Try playing a song in the terminal. Give it a go with Termux!
 2. Navigate to the project directory and install dependencies:
     ```sh
     cd Young-kai---Blue-terminal
-    chmod +x play_song.sh
     pkg install mpv
     pkg install bc
     clear
+    chmod +x play_song.sh
     ```
 3. Run the script:
     ```sh
