@@ -11,7 +11,8 @@ Try playing a song in the terminal. Give it a go with Termux!
 - [🐱 Usage](#usage)
 - [🐱 Contributing](#contributing)
 
-## 🐱 Installation
+## 🐱 Installation 
+>[termux/terminal]
 1. Clone the repository:
     ```sh
     pkg install git
